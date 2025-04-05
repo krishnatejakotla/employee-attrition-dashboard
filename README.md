@@ -31,7 +31,7 @@ To analyze and visualize employee attrition data to:
 - Employees working **overtime** or in **low-income brackets** are more likely to leave
 
 ---
-employee-attrition-dashboard/
+### employee-attrition-dashboard/
 ├── README.md
 ├── Employee_Attrition_Analysis.pbix
 ├── employee_attrition_analysis.sql
